@@ -1,0 +1,54 @@
+a {
+    margin-top:5%;
+    font-family: arial;
+    color: rgb(0, 0, 0);
+    margin-left: 5%; 
+    border: none;   
+    padding: 10px;
+}
+
+button {
+    width: 100px;
+    height: 20px;
+    background-color: #389122;
+    border-radius: 4px;
+    border: 2px solid #50af2b;
+    color: rgb(248, 242, 242);
+    margin-left: 5%;
+    font-family: arial;
+}
+
+textarea {
+    resize: none;
+    font-family: arial;
+    height: 50px;
+    width: 87%;
+    margin-left: 5%; 
+    padding: 10px;
+    display: inline-block;
+}
+
+.like_button {
+    float: right;
+    border: 2px solid #659b28;
+}
+
+
+.comment {
+    border: none;
+    font-family: arial;
+    width: 87%;
+    margin-left: 5%; 
+    height: auto;
+    padding: 10px;
+    background-color: #16e785;
+    word-break:break-all;
+}
+
+.box {
+    width: 50%;
+    
+    margin: 0 auto;
+    background-color: #09e049;
+}
+body {background-image: url(G-Yhk1La5Ig.jpg);}
